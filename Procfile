@@ -1,1 +1,1 @@
-worker: node index
+worker:  bundle exec rake jobs:work
